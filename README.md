@@ -1,1 +1,1 @@
-# budget-application-tutorial
+# project-budget-application
